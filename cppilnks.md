@@ -1,6 +1,7 @@
 This file contains a collection of links to youtube channels, documentation and specificitions, blogs and tools related to c++ programming.
 
-![utube1](https://user-images.githubusercontent.com/21259239/114727272-a5e3cd80-9d70-11eb-890f-74cff825acba.png)
+![youtube](https://user-images.githubusercontent.com/21259239/116494593-b0a37400-a8d3-11eb-9089-62619a363d05.png)
+
 * [CppCon](https://www.youtube.com/channel/UCMlGfpWw-RUdWX_JbLCukXg)
 * [The Chemo](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw)
 * [C++ Weekly with Jason Turner](https://www.youtube.com/channel/UCxHAlbZQNFU2LgEtiqd2Maw)
@@ -23,3 +24,22 @@ This file contains a collection of links to youtube channels, documentation and 
 * [CopperSpice](https://www.youtube.com/channel/UC-lNlWEq0kpMcThO-I81ZdQ)
 * [CoreCppIL](https://www.youtube.com/channel/UCE14XYFaK1fDTnOTqlOFrrQ)
 * [MUCplusplus](https://www.youtube.com/channel/UCf3tX0nf8EFIwmgQBH6PIGw)
+
+![blog](https://user-images.githubusercontent.com/21259239/116494587-ae411a00-a8d3-11eb-9686-53ad57ae751f.png)
+
+* [Fluent{C++}](https://www.fluentcpp.com)
+* [The Old New Thing](https://devblogs.microsoft.com/oldnewthing)
+* [cppcast](https://cppcast.com)
+* [cppchat]( http://slashslash.info/cppchat)
+* [Arthur O’Dwyer](https://quuxplusone.github.io/blog)
+* [r/vormestrand](https://www.reddit.com/user/vormestrand)
+
+![tools](https://user-images.githubusercontent.com/21259239/116494591-b00add80-a8d3-11eb-947a-1cc1eb554f88.png)
+* [Compiler Explorer](https://godbolt.org)
+* [cpp insights](https://cppinsights.io)
+* [C gibberish <-> English](https://cdecl.org)
+* 
+
+## Groups and Community
+* [reddit C++](https://www.reddit.com/r/cpp/)
+* [C++ Slack](https://cppalliance.org/slack)
